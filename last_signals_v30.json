@@ -1,1 +1,1 @@
-{}
+{"BTC-SWAP-USDT": {"direction": "SHORT", "entry": 80779.7, "tp": 79936.52857142857, "sl": 81201.28571428571, "status": "OPEN", "time": "2026-10-18T19:45:41.964284"}, "ETH-SWAP-USDT": {"direction": "SHORT", "entry": 2330.08, "tp": 2282.5257142857145, "sl": 2353.8571428571427, "status": "OPEN", "time": "2026-10-18T19:45:42.646084"}, "SOL-SWAP-USDT": {"direction": "SHORT", "entry": 100.62, "tp": 98.2907142857143, "sl": 101.78464285714286, "status": "OPEN", "time": "2026-10-18T19:45:43.406040"}}
